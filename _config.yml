@@ -20,11 +20,11 @@ avatar : https://github.com/veronicamuriga.png?
 # Includes an icon in the footer for each username you enter
 footer-links:
   email: wmuriga@mit.edu
-  facebook: https://www.facebook.com/veronica.muriga
+  facebook: veronica.muriga
   github: veronicamuriga
   instagram: wairimu__
-  linkedin: https://www.linkedin.com/in/veronicamuriga/
-  rss: # just type anything here for a working RSS icon
+  linkedin: veronicamuriga/
+  rss: veronicamuriga # just type anything here for a working RSS icon
   twitter: veronicamuriga
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
