@@ -19,6 +19,14 @@ The steps I am going through are:
 * Run flight goggles, get it to give me ground truth per-pixel semantic labelling (for free)
 * Use a neural network (MaskRCNN) to generate semantic labels from the RGB image
 
-I ran into some 
+I ran into some issues setting up Kimera since my computer wasn't powerful enough to handle the graphics needed for flightgoggles, so as I wait to be set up logistically I'm putting together all the errors I came across while building Kimera and running flightgoggles data on MaskRCNN. Interesting stuff.
 
 ### MIT Aerospace Controls Lab
+
+### Interactive Fishing Game Team Project
+
+## Personal Projects
+
+### YYAS Mentorship
+
+### WILG Exec Board
