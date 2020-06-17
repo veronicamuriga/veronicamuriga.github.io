@@ -10,7 +10,7 @@ description: Welcome to my web page!!
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 #avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/Me.png
-avatar: {% avatar [veronicamuriga] %}
+{% avatar veronicamuriga %}
 
 #
 # Flags below are optional
