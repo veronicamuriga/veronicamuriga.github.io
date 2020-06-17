@@ -8,4 +8,3 @@ Thanks for visiting my page! I'm Veronica, a rising junior at MIT  majoring in E
 ![_config.yml]({{ site.baseurl }}/images/Pic.png)
 
 
-
