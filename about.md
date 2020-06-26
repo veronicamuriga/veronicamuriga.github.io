@@ -12,4 +12,3 @@ I'm Veronica, a rising junior at MIT majoring in Electrical Engineering and Comp
 * I write for the MIT Admission blogs.
 
 
-#[email@domain.com](mailto:email@domain.com)
