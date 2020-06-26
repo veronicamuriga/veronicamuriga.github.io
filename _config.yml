@@ -14,7 +14,7 @@ description: EECS @ MIT | Robotics & Computer Vision
 avatar : https://github.com/veronicamuriga.png?
 
 #background over whole website?
-background: webpng.png
+background: ({{ site.baseurl }}/images/webpng.png)
 
 
 #
