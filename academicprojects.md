@@ -8,14 +8,16 @@ permalink: /academicprojects/
 
 I am currently working at [MIT SparkLab](http://web.mit.edu/sparklab/) in the AI Innovation Accelerator (AIIA) search-and-rescue intelligence branch as a lab assistant under Professor Luca Carlone.
 
-The objective of my summer research is to leverage MaskRCNN for transfer learning in Kimera (an open-source real-time SLAM software) to generate semantic labels from the RGB images simulated through Flightgoggles.
+The initial objective of my summer research is to leverage MaskRCNN for transfer learning in Kimera (an open-source real-time SLAM software) to generate semantic labels from the RGB images simulated through Flightgoggles. Eventually, I should be able to replace Flightgoggles with real world images and get relatively accurate metric-semantic reconstruction.
 
-Eventually, I should be able to replace Flightgoggles with real world images and get relatively accurate metric-semantic reconstruction.
+This has since evolved into speed-testing and latency reduction of Kimera, while also testing different neural networks to find one whoose trainig data best aligns it for use on Flightgoggles simulations.
 
-The steps I am going through are:
-* Set up Kimera-VIO-ROS, FlightGoggles and all their dependencies, and run Kimera on test datasets
-* Run flight goggles, get it to give me ground truth per-pixel semantic labelling (for free)
-* Use a neural network (MaskRCNN) to generate semantic labels from the RGB image
+My action items so far have been:
+* Setting up Kimera (Kimera-VIO-ROS + Kimera-Semantics + dependencies) and running Kimera on test datasets
+* Getting ground truth per-pixel semantic labelling from Flightgoggles 
+* Testing neural networks (eg MaskRCNN) to generate semantic labels from the RGB image
+* Adding throttle nodes and reducing resolution of RGB input into Kimera to reduce the time it takes to get a reconstruction
+* Integrating Kimera into the broader RL system- involves generalizing topic names and modifying broadcasting rates to accoount for different input/output buffer
 
 
 *******
