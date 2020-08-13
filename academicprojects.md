@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Academic Projects
-permalink: /academicprojects/
+title: Research 
+permalink: /research/
 ---
 
 ### MIT SparkLab
@@ -31,14 +31,6 @@ The objective of my research was to conduct testing and debugging of the lab sim
 I left my position a lot more comfortable with C++, ROS and Linux systems. I also learnt key logical testing techniques, such as setting checks for variables that might sometimes have null values and are inputs for other functions which would cause unprecedented results down the line.  
 
 A challenge I faced while working on this project was the fact that I was putting together several very independent codebases- the drone simulator code that models flying a quadrotor simulator but does not account for physical properties like wind turbulence and aerodynamic factors that would play a role in real life, and the code that models mathematical Dryden models for turbulence and blade flapping. Working around this involved a lot of debugging in C++ and ROS, and digging into functions to find ways to manipulate them to be more generalizable and easily maintainable in future.
-
-*******
-
-### Interactive Fishing Game Team Project
-
-For my IOT's class final project, my team designed a smart fishing game consisting of a fishing rod, on which was mounted an ESP-32 along with components such as a digital compass for motion sensing, a rotary encoder for a reel, IMU, speaker and buzzer. The user orients themselves towards any given heading and swings the fishing rod. If the line falls within the vicinity of a fish, the user has caught that fish and their points are incremented in a database hosted in a remote server. To communicate with the server, the game was supported by server-side scripts written in Python.
-
-I thoroughly enjoyed he material of the class. I’ve always been really interested in physics and combining it with code to making a product from scratch was amazing. I learnt to navigate team dynamics- how to balance out making people work on things they were already comfortable with doing, with working on something out of one's comfort zone.
 
 ******
 -------
