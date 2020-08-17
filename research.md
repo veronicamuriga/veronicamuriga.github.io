@@ -8,9 +8,9 @@ permalink: /researchprojects/
 
 I am currently working at [MIT SparkLab](http://web.mit.edu/sparklab/) in the AI Innovation Accelerator (AIIA) search-and-rescue intelligence branch as a lab assistant under Professor Luca Carlone.
 
-The initial objective of my summer research was to leverage MaskRCNN for transfer learning in Kimera (an open-source real-time SLAM software) to generate semantic labels from the RGB images simulated through Flightgoggles. Eventually, the aim was to be able to replace Flightgoggles with real world images and get relatively accurate metric-semantic reconstruction.
+The initial objective of [my summer research](https://docs.google.com/presentation/d/1a6QX4ZsGHbm3dHmvRBnj5FmknGqfRi2brFXyT2fudUc/edit?usp=sharing) was to leverage MaskRCNN for transfer learning in Kimera (an open-source real-time SLAM software) to generate semantic labels from the RGB images simulated through Flightgoggles. The aim is to replace Flightgoggles with real world images and get relatively accurate metric-semantic reconstruction.
 
-This has since evolved into speed-testing and latency reduction of Kimera, while also testing different neural networks to find one whoose trainig data best aligns it for use on Flightgoggles simulations.
+This has since evolved into speed-testing and latency reduction of Kimera, while also testing different neural networks to find one whose trainig data best aligns it for use on Flightgoggles simulations.
 
 My action items so far have been:
 * Setting up Kimera (Kimera-VIO-ROS + Kimera-Semantics + dependencies) and running Kimera on test datasets
@@ -26,7 +26,7 @@ My action items so far have been:
 
 I worked at [MIT ACL](http://acl.mit.edu) as a lab assistant from January to May 2020 under Professor Jonathan How.
 
-My research invoolved:
+My research involved:
 - Conducting testing and debugging of the lab simulator and expand it from a quad-rotor to a hex-rotor, which is the lab standard vehicle 
 - Incorporating [wind and air dynamics](https://docs.google.com/presentation/d/19Kbac-fTL5wLGF808WAbKQIAuRLFzwZiIPuHjMd7ino/edit?usp=sharing) by combining the simulator code with air dynamics code drawn up by another lab member 
 - Incorporating [blade flapping effects](https://docs.google.com/presentation/d/1yYXDTJ7G_zLPxQvvDlohSAqE3KK49iFHhipkQPyv9fQ/edit?usp=sharing) into the simulator to factor for the elimination of disymmetry of lift. 
