@@ -53,6 +53,8 @@ baseurl: ""
 #
 
 permalink: /:title/
+# permalink: "3da541558918a808c2402bba5012f6c60b27661c/:title/"
+
 
 # The release of Jekyll Now that you're using
 version: v1.2.0
