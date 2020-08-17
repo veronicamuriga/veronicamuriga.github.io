@@ -4,7 +4,6 @@ title: Personal Projects
 permalink: /personalprojects/
 ---
 
-
 ### Twivia
 
 I participated in Twitter's first virtual invite-only hackathon, after  attending one of Twitter University's spring camps, #DevelopHer '20. I was put in a team with five other enthusiastic and creative students from both North  and South American colleges, and in two days we built [Twivia](bit.ly/twiviadevpost), a Twitter trivia game. Twivia ranked 3rd overall out of 9 teams.

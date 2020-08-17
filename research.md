@@ -26,7 +26,10 @@ My action items so far have been:
 
 I worked at [MIT ACL](http://acl.mit.edu) as a lab assistant from January to May 2020 under Professor Jonathan How.
 
-The objective of my research was to conduct testing and debugging of the lab simulator and to help expand it from a quad-rotor to a hex-rotor, which is the lab standard vehicle. I also sought to incorporate wind and air dynamic effects by combining the simulator code with air dynamics code drawn up by another lab member. I also worked on incorporating blade flapping effects into the simulator to factor for the elimination of disymmetry of lift. 
+My research invoolved:
+- Conducting testing and debugging of the lab simulator and expand it from a quad-rotor to a hex-rotor, which is the lab standard vehicle 
+- Incorporating [wind and air dynamics](https://docs.google.com/presentation/d/19Kbac-fTL5wLGF808WAbKQIAuRLFzwZiIPuHjMd7ino/edit?usp=sharing) by combining the simulator code with air dynamics code drawn up by another lab member 
+- Incorporating [blade flapping effects](https://docs.google.com/presentation/d/1yYXDTJ7G_zLPxQvvDlohSAqE3KK49iFHhipkQPyv9fQ/edit?usp=sharing) into the simulator to factor for the elimination of disymmetry of lift. 
 
 I left my position a lot more comfortable with C++, ROS and Linux systems. I also learnt key logical testing techniques, such as setting checks for variables that might sometimes have null values and are inputs for other functions which would cause unprecedented results down the line.  
 
