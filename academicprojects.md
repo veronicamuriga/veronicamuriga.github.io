@@ -3,6 +3,8 @@ layout: post
 title: Research 
 permalink: /research/
 ---
+### Robotics, Science and Systems
+This spring, I am taking Robotics, Science and Systems, a class that utilizes a robotic racecar to model concepts like control, state estimation, simultaneous localization and mapping, path planning through hands-on labs. Check out [my team's portfolio](https://github.mit.edu/pages/rss2021-3/website/) to see what we're working on now.
 
 ### MIT SparkLab
 
