@@ -10,13 +10,13 @@ This Spring, I am taking a RSS class where we program a racecar to perform tasks
 
 ### MIT SparkLab
 
-I am currently working at [MIT SparkLab](http://web.mit.edu/sparklab/) in the AI Innovation Accelerator (AIIA) search-and-rescue intelligence branch as a lab assistant under Professor Luca Carlone.
+During summer 2020, I worked at [MIT SparkLab](http://web.mit.edu/sparklab/) in the AI Innovation Accelerator (AIIA) search-and-rescue intelligence branch as a lab assistant under Professor Luca Carlone.
 
-The initial objective of my summer research was to leverage MaskRCNN for transfer learning in Kimera (an open-source real-time SLAM software) to generate semantic labels from the RGB images simulated through Flightgoggles. Eventually, the aim was to be able to replace Flightgoggles with real world images and get relatively accurate metric-semantic reconstruction.
+The initial objective of [my summer research](https://docs.google.com/presentation/d/1a6QX4ZsGHbm3dHmvRBnj5FmknGqfRi2brFXyT2fudUc/edit?usp=sharing) was to leverage MaskRCNN for transfer learning in Kimera (an open-source real-time SLAM software) to generate semantic labels from the RGB images simulated through Flightgoggles. Eventually, the aim was to be able to replace Flightgoggles with real world images and get relatively accurate metric-semantic reconstruction.
 
-This has since evolved into speed-testing and latency reduction of Kimera, while also testing different neural networks to find one whoose trainig data best aligns it for use on Flightgoggles simulations.
+This evolved into speed-testing and latency reduction of Kimera, while also testing different neural networks to find one whoose trainig data best aligns it for use on Flightgoggles simulations.
 
-My action items so far have been:
+My action items were:
 * Setting up Kimera (Kimera-VIO-ROS + Kimera-Semantics + dependencies) and running Kimera on test datasets
 * Getting ground truth per-pixel semantic labelling from Flightgoggles 
 * Testing neural networks (eg MaskRCNN) to generate semantic labels from the RGB image
