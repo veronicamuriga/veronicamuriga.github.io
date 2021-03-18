@@ -12,6 +12,8 @@ This Spring, I am taking a RSS class where we program a racecar to perform tasks
 
 During summer 2020, I worked at [MIT SparkLab](http://web.mit.edu/sparklab/) in the AI Innovation Accelerator (AIIA) search-and-rescue intelligence branch as a lab assistant under Professor Luca Carlone.
 
+<p><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTSR3K-8svXLIdbCTUy3I41nfP1P0aAyK4zsgckZCWWjDFqsPf5EtTW-sbgR2BXhDpSN4xQVPh4EOv5/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe><p>
+
 The initial objective of [my summer research](https://docs.google.com/presentation/d/1a6QX4ZsGHbm3dHmvRBnj5FmknGqfRi2brFXyT2fudUc/edit?usp=sharing) was to leverage MaskRCNN for transfer learning in Kimera (an open-source real-time SLAM software) to generate semantic labels from the RGB images simulated through Flightgoggles. Eventually, the aim was to be able to replace Flightgoggles with real world images and get relatively accurate metric-semantic reconstruction.
 
 This evolved into speed-testing and latency reduction of Kimera, while also testing different neural networks to find one whoose trainig data best aligns it for use on Flightgoggles simulations.
@@ -28,11 +30,15 @@ My action items were:
 
 ### MIT Aerospace Controls Lab
 
-I worked at [MIT ACL](http://acl.mit.edu) as a lab assistant from January to May 2020 under Professor Jonathan How.
+I worked at [MIT ACL](http://acl.mit.edu/) as a lab assistant from January to May 2020 under Professor Jonathan How.
 
-The objective of my research was to conduct testing and debugging of the lab simulator and to help expand it from a quad-rotor to a hex-rotor, which is the lab standard vehicle. I also sought to incorporate wind and air dynamic effects by combining the simulator code with air dynamics code drawn up by another lab member. I also worked on incorporating blade flapping effects into the simulator to factor for the elimination of disymmetry of lift. 
+My research involved:
 
-I left my position a lot more comfortable with C++, ROS and Linux systems. I also learnt key logical testing techniques, such as setting checks for variables that might sometimes have null values and are inputs for other functions which would cause unprecedented results down the line.  
+* Conducting testing and debugging of the lab simulator and expand it from a quad-rotor to a hex-rotor, which is the lab standard vehicle
+* Incorporating [wind and air dynamics](https://docs.google.com/presentation/d/19Kbac-fTL5wLGF808WAbKQIAuRLFzwZiIPuHjMd7ino/edit?usp=sharing) by combining the simulator code with air dynamics code drawn up by another lab member
+* Incorporating [blade flapping effects](https://docs.google.com/presentation/d/1yYXDTJ7G_zLPxQvvDlohSAqE3KK49iFHhipkQPyv9fQ/edit?usp=sharing) into the simulator to factor for the elimination of disymmetry of lift.
+
+I left my position a lot more comfortable with C++, ROS and Linux systems. I also learnt key logical testing techniques, such as setting checks for variables that might sometimes have null values and are inputs for other functions which would cause unprecedented results down the line.
 
 A challenge I faced while working on this project was the fact that I was putting together several very independent codebases- the drone simulator code that models flying a quadrotor simulator but does not account for physical properties like wind turbulence and aerodynamic factors that would play a role in real life, and the code that models mathematical Dryden models for turbulence and blade flapping. Working around this involved a lot of debugging in C++ and ROS, and digging into functions to find ways to manipulate them to be more generalizable and easily maintainable in future.
 
