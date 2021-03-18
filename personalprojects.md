@@ -18,7 +18,5 @@ For my freshman spring IOT class final project, my team designed a smart fishing
 
 I thoroughly enjoyed the material of the class. I’ve always been really interested in physics and combining it with code to making a product from scratch was amazing. I learnt to navigate team dynamics- how to balance out making people work on things they were already comfortable with doing, with working on something out of one's comfort zone.
 
-<p><iframe src="https://docs.google.com/document/d/e/2PACX-1vRzCIlrD1QuGOXXQJQW5R-Z1tU1Cd6S1m2iAsQ0JTGkIvQ7ao34onY-97imcI_cQD8KOH6LslDM-O55/pub?embedded=true"></iframe></p>
-
 *******
 -------
