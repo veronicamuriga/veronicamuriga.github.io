@@ -6,7 +6,7 @@ permalink: /academic+research/
 ### Robotics, Science and Systems
 This Spring, I am taking a RSS class where we program a racecar to perform tasks such as parking and wall following to demostrate robotics concepts like controls, path planning, simultaneous localization and mapping, and state estimation. Check out [my team's portfolio](https://github.mit.edu/pages/rss2021-3/website/) to see what we're working on now. 
 
-[![Image](/images/Kitty.png)](https://github.mit.edu/pages/rss2021-3/website/ "Description")
+[![Image](/images/website_screenshot.png)](https://github.mit.edu/pages/rss2021-3/website/ "RSS Team Portfolio")
 
 
 ********
